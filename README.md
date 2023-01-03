@@ -16,13 +16,11 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Slack-541554?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Trello-20739F?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Figma-FF7362?style=flat-square&logo=Figma&logoColor=white"/></a>
 
-### Blog
-<a href="https://velog.io/@dave_ahn93"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
-
 ***
 
-#### Contact
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+#### Blog
+<a href="https://velog.io/@dave_ahn93"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
 
-ahnsangjun93@gmail.com
+#### Contact
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp; ahnsangjun93@gmail.com
 
